@@ -1,0 +1,10 @@
+{
+  "name": "kai-blog-agent",
+  "version": "1.0.0",
+  "description": "Automated blog management agent for Smart Money Momma",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
